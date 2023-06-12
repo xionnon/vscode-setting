@@ -1,10 +1,9 @@
 {
     "explorer.confirmDelete": false,
     "files.autoSave": "off",
-    // "editor.tabSize": 4,
-    "editor.lineHeight": 21, // 行高
-    "editor.fontSize": 18, // 字体
-    "editor.wordWrap": "on", // 自动换行
+    "editor.lineHeight": 21,
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
     "editor.rulers": [
         100,
         120
